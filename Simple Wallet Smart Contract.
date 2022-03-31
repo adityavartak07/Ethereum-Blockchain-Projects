@@ -1,1 +1,7 @@
 https://remix.ethereum.org/#version=soljson-v0.8.0+commit.c7dfd78e.js&optimize=false&runs=200&gist=
+
+Above Link is the URL to Remix IDE where the Smart Contract is implemented.
+Features of following Project are:
+1.Simple smart contract to store , distribute ether among diff EOA(externally owned acoounts) and CA(contract accounts);
+2.Written and implemented in solidity;
+3.Implemented using openzeppelin libraries;
